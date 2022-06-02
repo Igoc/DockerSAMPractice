@@ -3,3 +3,6 @@
 
 # PyCharm Caches
 .idea/
+
+# AWS SAM Caches
+.aws-sam/
